@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5yYUEQfYGfAVLo2+tvjU6e8ApXhIqfNknrgdpF04dWoaIzf3GHA3ZoHK+3uk48BAgBsSuf2HRXnsQjLTqwY2/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moham\\OneDrive\\Documents\\Software engineering year 2\\Functional programing\\Functional programming v2\\Functional programming v2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moham\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
